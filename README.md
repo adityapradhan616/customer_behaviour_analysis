@@ -52,16 +52,10 @@ Reporting & Presentation
   Created a written analysis report
   Designed a professional presentation using Gamma
 
-# Dashboard
-
-  The Power BI dashboard provides:
-  Key performance indicators (KPIs)
-  Trend analysis and comparisons
-  Interactive filters for deeper insights
-  (Screenshot or link to dashboard can be added here)
-
 # Results & Insights
 
-  Identified key patterns and trends in the data
-  Generated actionable insights using SQL and visual analysis
-  Delivered findings in a clear, business-friendly format
+ Analysis shows that men spent significantly more than women across various product categories, revealing potential areas for targeted marketing.
+ The analysis identified key top-rated products, including Gloves, Sandals, and Boots, which are popular among customers and can drive higher sales.
+ Subscribers and users of express shipping demonstrated higher spending patterns, illustrating the importance of targeted marketing strategies for these customer segments.
+ Highlighting top-rated products in marketing efforts can improve sales, as they reassure customers about the quality and satisfaction associated with their  purchases, driving informed decisions.
+ By understanding customer behavior, businesses can achieve increased retention rates, leading to improved profits and more effective marketing campaigns that resonate with target audiences. Engage your customers smarter.
